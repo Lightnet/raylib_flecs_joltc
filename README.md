@@ -1,5 +1,6 @@
 # raylib_flecs_joltc
 
+# License: MIT
 
 # Information:
   Simple test on getting joltc 3d physics on raylib with flecs.
