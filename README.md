@@ -9,4 +9,5 @@
 # Links:
  * https://github.com/raysan5/raylib
  * https://github.com/SanderMertens/flecs
- * https://github.com/amerkoleci/joltc
+ * https://github.com/jrouwe/JoltPhysics
+ * https://github.com/amerkoleci/joltc 
